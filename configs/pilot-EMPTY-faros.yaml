@@ -1,0 +1,210 @@
+'L1 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L1 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L1 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L1 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L2 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L2 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L3 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L3 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L4 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L4 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L5 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pilot_220012022/L5 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : []
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [screwtip, mid, 150]
+    'color' : [0.,1.0,0.,1]

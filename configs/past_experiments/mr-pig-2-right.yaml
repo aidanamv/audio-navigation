@@ -1,0 +1,378 @@
+'L1 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L1 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-243.314, 256.342, -3.200]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-243.314, 256.343, -3.200]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-243.314, 256.343, -3.200, -243.314, 256.342, -3.200, 150]
+    'color' : [0.,1.0,0.,1]
+'L1 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L1 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-243.941, 255.349, 9.321]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-243.941, 255.350, 9.321]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-243.941, 255.350, 9.321, -243.941, 255.349, 9.321, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L2 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-206.982, 247.559, -1.863]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-206.982, 247.559, -1.863]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-206.982, 247.559, -1.863, -206.982, 247.559, -1.863, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L2 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-207.625, 246.540, 10.981]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-207.625, 246.541, 10.981]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-207.625, 246.541, 10.981, -207.625, 246.540, 10.981, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L3 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-171.092, 237.692, -0.496]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-171.092, 237.693, -0.495]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-171.092, 237.693, -0.495, -171.092, 237.692, -0.496, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L3 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-171.764, 236.629, 12.921]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-171.764, 236.629, 12.921]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-171.764, 236.629, 12.921, -171.764, 236.629, 12.921, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L4 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-132.998, 226.476, 0.072]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-132.998, 226.476, 0.072]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-132.998, 226.476, 0.072, -132.998, 226.476, 0.072, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L4 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-133.690, 225.381, 13.887]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-133.690, 225.381, 13.887]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-133.690, 225.381, 13.887, -133.690, 225.381, 13.887, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L5 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-95.966, 216.077, 2.046]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-95.966, 216.076, 2.045]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-95.966, 216.076, 2.045, -95.966, 216.077, 2.046, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L5 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-96.752, 214.662, 16.455]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-96.752, 214.661, 16.455]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-96.752, 214.661, 16.455, -96.752, 214.662, 16.455, 150]
+    'color' : [0.,1.0,0.,1]
+'L6 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L6 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-62.058, 205.517, 2.603]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-62.058, 205.517, 2.602]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-62.058, 205.517, 2.602, -62.058, 205.517, 2.603, 150]
+    'color' : [0.,1.0,0.,1]
+'L6 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/L6 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-62.874, 204.096, 17.865]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-62.874, 204.097, 17.865]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-62.874, 204.097, 17.865, -62.874, 204.096, 17.865, 150]
+    'color' : [0.,1.0,0.,1]
+'T10 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/T10 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-346.839, 285.825, -7.311]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-346.839, 285.825, -7.311]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-346.839, 285.825, -7.311, -346.839, 285.825, -7.311, 150]
+    'color' : [0.,1.0,0.,1]
+'T10 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/T10 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-347.301, 285.378, 3.821]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-347.301, 285.378, 3.821]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-347.301, 285.378, 3.821, -347.301, 285.378, 3.821, 150]
+    'color' : [0.,1.0,0.,1]
+'T11 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/T11 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-314.281, 275.046, -6.131]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-314.281, 275.047, -6.131]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-314.281, 275.047, -6.131, -314.281, 275.046, -6.131, 150]
+    'color' : [0.,1.0,0.,1]
+'T11 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/T11 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-314.747, 274.598, 5.101]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-314.747, 274.598, 5.101]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-314.747, 274.598, 5.101, -314.747, 274.598, 5.101, 150]
+    'color' : [0.,1.0,0.,1]
+'T12 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/T12 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-278.422, 265.658, -4.296]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-278.422, 265.658, -4.296]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-278.422, 265.658, -4.296, -278.422, 265.658, -4.296, 150]
+    'color' : [0.,1.0,0.,1]
+'T12 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'right marker/T12 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-278.968, 264.953, 7.496]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-278.968, 264.953, 7.496]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-278.968, 264.953, 7.496, -278.968, 264.953, 7.496, 150]
+    'color' : [0.,1.0,0.,1]

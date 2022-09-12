@@ -1,0 +1,11 @@
+atracsys==4.5.1.1
+easydict==1.9
+numpy==1.22.1
+numpy-stl==2.16.3
+PyOpenGL==3.1.5
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pyqtgraph==0.12.3
+python-utils==3.1.0
+PyYAML==6.0

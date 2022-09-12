@@ -1,0 +1,420 @@
+'L1 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/Marker1 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-94.281, 5.305, -158.173]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-90.676, -33.129, -171.841]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-90.676, -33.129, -171.841]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-90.676, -33.129, -171.841, -94.281, 5.305, -158.173, 150]
+    'color' : [0.,1.0,0.,1]
+'L1 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L1 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-94.764, 9.925, -198.717]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-90.607, -33.902, -191.376]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-90.607, -33.902, -191.376]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-90.607, -33.902, -191.376, -94.764, 9.925, -198.717, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L2 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-60.816, -1.380, -193.745]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-56.835, -35.244, -186.264]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-56.835, -35.244, -186.264]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-56.835, -35.244, -186.264, -60.816, -1.380, -193.745, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L2 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-63.044, 8.277, -166.772]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-58.054, -32.356, -166.156]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-58.054, -32.356, -166.156]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-58.054, -32.356, -166.156,-63.044, 8.277, -166.772, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L3 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-29.972, 13.799, -175.420]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-20.849, -25.691, -165.497]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-20.849, -25.691, -165.497]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-20.849, -25.691, -165.497,-29.972, 13.799, -175.420, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L3 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-28.009, 4.598, -210.813]
+    'color' :  [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-19.984, -29.834, -186.678]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-19.984, -29.834, -186.678]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-19.984, -29.834, -186.678, -28.009, 4.598, -210.813, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L4 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [6.898, 11.263, -157.870]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [13.209, -20.343, -175.393]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [13.209, -20.343, -175.393]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [13.209, -20.343, -175.393,6.898, 11.263, -157.870, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L4 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [4.747, 6.139, -212.748]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [12.916, -22.109, -187.613s]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [12.916, -22.109, -187.613]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [12.916, -22.109, -187.613, 4.747, 6.139, -212.748, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L5 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [28.654, 34.943, -164.639]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [46.159, -3.329, -179.572]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [46.159, -3.329, -179.572]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [46.159, -3.329, -179.572, 28.654, 34.943, -164.639, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/L5 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [28.438, 25.846, -205.827]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [45.565, -5.560, -194.571]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [45.565, -5.560, -194.571]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [45.565, -5.560, -194.571,28.438, 25.846, -205.827, 150]
+    'color' : [0.,1.0,0.,1]
+'T8 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T8 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-392.410, 224.020, 17.862]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-392.410, 224.020, 17.862]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-392.410, 224.020, 17.862, -392.410, 224.020, 17.862, 150]
+    'color' : [0.,1.0,0.,1]
+'T8 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T8 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : []
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-392.763, 223.446, 28.992]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-392.763, 223.446, 28.992]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-392.763, 223.446, 28.992, -392.763, 223.446, 28.992, 150]
+    'color' : [0.,1.0,0.,1]
+'T9 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T9 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-212.518, -28.672, -159.369]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-191.499, -65.630, -171.109]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-191.499, -65.630, -171.109]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-191.499, -65.630, -171.109, -212.518, -28.672, -159.369, 150]
+    'color' : [0.,1.0,0.,1]
+'T9 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T9 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-213.844, -34.386, -193.788]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-191.506, -66.419, -185.889]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-191.506, -66.419, -185.889]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-191.506, -66.419, -185.889, -213.844, -34.386, -193.788, 150]
+    'color' : [0.,1.0,0.,1]
+'T10 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T10 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-187.470, -19.203, -166.710]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-170.957, -53.315, -173.703]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-170.957, -53.315, -173.703]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-170.957, -53.315, -173.703, -187.470, -19.203, -166.710, 150]
+    'color' : [0.,1.0,0.,1]
+'T10 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T10 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-188.563, -20.379, -191.419]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-171.616, -53.821, -188.079]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-171.616, -53.821, -188.079]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-171.616, -53.821, -188.079, -188.563, -20.379, -191.419, 150]
+    'color' : [0.,1.0,0.,1]
+'T11 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T11 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-159.937, -9.698, -173.499]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-145.725, -46.147, -176.693]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-145.725, -46.147, -176.693]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-145.725, -46.147, -176.693, -159.937, -9.698, -173.499, 150]
+    'color' : [0.,1.0,0.,1]
+'T11 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T11 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-159.937, -9.698, -173.499]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-145.725, -46.147, -176.693]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-145.725, -46.147, -176.693]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-145.725, -46.147, -176.693, -159.937, -9.698, -173.499, 150]
+    'color' : [0.,1.0,0.,1]
+'T12 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T12 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-126.778, -2.380, -163.977]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-120.154, -37.633, -175.913]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-120.154, -37.633, -175.913]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-120.154, -37.633, -175.913,-126.778, -2.380, -163.977, 150]
+    'color' : [0.,1.0,0.,1]
+'T12 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'stls sacrum marker/T12 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-127.661, 1.848, -203.935]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-120.129, -37.960, -187.058]
+    'color' : [1.0,1.0,1.0,.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-120.129, -37.960, -187.058]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-120.129, -37.960, -187.058,-127.661, 1.848, -203.935, 150]
+    'color' : [0.,1.0,0.,1]

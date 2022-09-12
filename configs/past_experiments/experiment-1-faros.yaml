@@ -1,0 +1,210 @@
+'L1 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'Vertebra L1 (GC 1.5 SD 0.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-52.744, 213.490, -12.812]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-63.588, 219.519, -23.689]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-85.814, 231.875, -45.981]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-85.814, 231.875, -45.981, -63.588, 219.519, -23.689, 150]
+    'color' : [0.,1.0,0.,1]
+'L1 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L1 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-37.513, 215.209, -55.136]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-50.777, 220.281, -55.024]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-82.427, 232.384, -54.759]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-82.427, 232.384, -54.759, -50.777, 220.281, -55.024, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L2 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-64.250, 183.110, -17.353]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-75.612, 188.212, -28.496]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-98.009, 198.270, -50.458]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-98.009, 198.270, -50.458, -75.612, 188.212, -28.496, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L2 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-46.093, 182.608, -59.566]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-62.485, 187.788, -59.857]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-94.425, 197.880, -60.426]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-94.425, 197.880, -60.426, -62.485, 187.788, -59.857, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L3 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-77.680, 150.665, -23.287]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-87.280, 154.210, -33.750]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-109.845, 162.542, -58.344]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-109.845, 162.542, -58.344, -87.280, 154.210, -33.750, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L3 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-59.297, 149.999, -64.524]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-72.710, 153.071, -64.827]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-106.945, 160.913, -65.603]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-106.945, 160.913, -65.603, -72.710, 153.071, -64.827, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L4 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-84.028, 114.659, -23.663]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-93.788, 115.451, -34.485]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-116.320, 117.277, -59.468]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-116.320, 117.277, -59.468, -93.788, 115.451, -34.485, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L4 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-64.457, 112.014, -68.540]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-79.027, 113.050, -68.848]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-111.372, 115.350, -69.532]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-111.372, 115.350, -69.532, -79.027, 113.050, -68.848, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L5 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-88.396, 79.097, -17.289]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-97.752, 76.245, -31.130]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-112.895, 71.628, -53.533]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-112.895, 71.628, -53.533, -97.752, 76.245, -31.130, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'experiment-1/L5 (GC 3 SD 1).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-65.224, 78.933, -74.667]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-79.943, 76.432, -72.081]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-106.872, 71.856, -67.351]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [-106.872, 71.856, -67.351, -79.943, 76.432, -72.081, 150]
+    'color' : [0.,1.0,0.,1]

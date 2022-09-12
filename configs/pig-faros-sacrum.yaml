@@ -1,0 +1,421 @@
+'L1 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L1 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [18.043, -13.470, -326.612]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [19.358, -40.328, -342.451]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [19.358, -40.328, -342.451]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [19.358, -40.328, -342.451,18.043, -13.470, -326.612, 150]
+    'color' : [0.,1.0,0.,1]
+'L1 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L1 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [33.835, -14.002, -327.475]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-288.482, 210.273, 14.056]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-288.482, 210.273, 14.056]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [31.931, -40.643, -342.682,33.835, -14.002, -327.475, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L2 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [0.536, -40.084, -300.600]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-250.749, 210.868, 2.760]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-250.749, 210.868, 2.760]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [19.347, -56.328, -309.344,0.536, -40.084, -300.600, 150]
+    'color' : [0.,1.0,0.,1]
+'L2 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L2 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [49.142, -40.666, -301.052]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-251.117, 209.437, 15.575]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-251.117, 209.437, 15.575]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [31.647, -56.307, -309.378, -40.666, -301.052, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L3 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [6.534, -55.247, -265.900]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-213.573, 208.917, 3.960]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-213.573, 208.917, 3.960]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [18.672, -74.696, -276.373,6.534, -55.247, -265.900, 150]
+    'color' : [0.,1.0,0.,1]
+'L3 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L3 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [34.301, -50.997, -263.093]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-213.957, 207.422, 17.346]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-213.957, 207.422, 17.346]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [31.121, -74.873, -276.334,34.301, -50.997, -263.093, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L4 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-0.340, -77.631, -236.157]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-173.957, 206.139, 4.333]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-173.957, 206.139, 4.333]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [17.614, -94.186, -243.921,-0.340, -77.631, -236.157, 150]
+    'color' : [0.,1.0,0.,1]
+'L4 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L4 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [48.916, -79.167, -236.038]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-174.353, 204.599, 18.117]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-174.353, 204.599, 18.117]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [30.613, -94.430, -243.867,48.916, -79.167, -236.038, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L5 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-2.961, -93.923, -202.322]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-135.549, 203.897, 6.128]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-135.549, 203.897, 6.128]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [15.596, -111.562, -208.650, -2.961, -93.923, -202.322, 150]
+    'color' : [0.,1.0,0.,1]
+'L5 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L5 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [48.612, -97.296, -201.448]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-135.966, 202.012, 20.500]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-135.966, 202.012, 20.500]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [29.572, -112.368, -208.552,48.612, -97.296, -201.448, 150]
+    'color' : [0.,1.0,0.,1]
+'L6 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L6 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [-3.727, -105.354, -168.823]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-100.163, 200.862, 6.498]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-100.163, 200.862, 6.498]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [13.820, -126.151, -174.427, -3.727, -105.354, -168.823,150]
+    'color' : [0.,1.0,0.,1]
+'L6 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/L6 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [35.834, -106.389, -167.015]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-100.604, 198.945, 21.722]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-100.604, 198.945, 21.722]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [29.035, -127.185, -174.473,35.834, -106.389, -167.015, 150]
+    'color' : [0.,1.0,0.,1]
+'T11 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T11 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [8.594, 57.708, -446.384]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-361.462, 214.747, -1.056]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-361.462, 214.747, -1.056]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [20.405, 41.362, -457.129, -1.056, 8.594, 57.708, -446.384, 150]
+    'color' : [0.,1.0,0.,1]
+'T11 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T11 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [37.099, 63.226, -445.085]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-361.783, 213.947, 10.161]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-361.783, 213.947, 10.161]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [31.622, 41.085, -457.930, 37.099, 63.226, -445.085, 150]
+    'color' : [0.,1.0,0.,1]
+'T12 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T12 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [8.755, 39.936, -419.874]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-324.418, 213.243, 0.623]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-324.418, 213.243, 0.623]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [20.705, 24.153, -430.388, 8.755, 39.936, -419.874, 150]
+    'color' : [0.,1.0,0.,1]
+'T12 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T12 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [36.040, 46.428, -416.467]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-324.760, 212.164, 12.394]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-324.760, 212.164, 12.394]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [31.946, 23.857, -430.723, 36.040, 46.428, -416.467, 150]
+    'color' : [0.,1.0,0.,1]
+'T14 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T14 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [8.428, -1.307, -362.677]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-324.418, 213.243, 0.623]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-324.418, 213.243, 0.623]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [20.585, -17.615, -373.7808.428, -1.307, -362.677, 150]
+    'color' : [0.,1.0,0.,1]
+'T14 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T14 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [34.035, 6.671, -357.378]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-324.760, 212.164, 12.394]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-324.760, 212.164, 12.394]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [32.484, -17.782, -373.722,34.035, 6.671, -357.378, 150]
+    'color' : [0.,1.0,0.,1]
+'T13 - left':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T13 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [35.321, 25.398, -385.266]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-324.418, 213.243, 0.623]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-324.418, 213.243, 0.623]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [32.530, 3.034, -401.619, 35.321, 25.398, -385.266, 150]
+    'color' : [0.,1.0,0.,1]
+'T13 - right':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'pig-faros-sacrum/T13 (GC 3 SD 1.5).stl'
+  'entry':
+    'type' : 'point'
+    'data' : [9.815, 19.317, -390.224]
+    'color' : [0.,1.,0.0,1.0]
+  'mid':
+    'type' : 'point'
+    'data' : [-324.760, 212.164, 12.394]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [-324.760, 212.164, 12.394]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [21.132, 3.235, -401.673, 9.815, 19.317, -390.224, 150]
+    'color' : [0.,1.0,0.,1]
+

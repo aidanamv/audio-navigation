@@ -1,0 +1,13 @@
+'MicrophoneRecorder':
+  'input_device_keyword' : 'default'
+  'chunk_size' : 2048
+  'maxInputChannels' : 32
+'Chroma':
+  'n_chroma' : 24
+'MelSpectrogram':
+  'n_mels' : 64
+  'n_frames' : 512
+'Application':
+  'size' : [1200,800]
+  'fps' : 30
+  'n_frames' : 200
