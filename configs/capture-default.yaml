@@ -1,52 +1,36 @@
 'mode' : 'stream' # ['stream', 'file']
-'tracking' : '/home/aidana/dev_ws/S220525/poses_txt/T6_right.txt'# file to stream from
+'tracking' : '/home/aidana/PycharmProjects/vat-capture/data-tracking/GAX/L2 - left.txt'# file to stream from
 'defaults' : 'geometry-default.yaml'
 'refresh_timeout' : 30 # in milliseconds
 'stats_timeout' : 100 # in milliseconds
 'time_filter' : 500 # in milliseconds
 'markers': # must be within the data-geometry folder
-  '600': # has to correspond to the id in the .ini file
-    'geom' : 'geometry600.ini'
-  '601':
-    'geom' : 'geometry601.ini'
-  '602':
-    'geom': 'geometry602.ini'
-  '603':
-    'geom': 'geometry603.ini'
+  '300': # has to correspond to the id in the .ini file
+    'geom' : 'sacrum_marker.ini'
+  '4':
+    'geom' : 'drillnew.ini'
 'geometries': # for meshes, must be in the data-stl folder
-  'drillsleeve':
-    'marker' : 601
-    'type' : 'mesh'
-    'data' : 'Tool metal.stl'
-    'color' : [1, 1, 0, 0.7]
-    'vis' : true
   'drill':
-    'marker': 602
+    'marker': 4
     'type': 'mesh'
-    'data': 'Drill_S220525.stl' #Drill Tip.stl'
-    'color': [ 0,255,255,0.2 ]
-    'vis': true
-  'non-drill':
-    'marker': 603
-    'type': 'mesh'
-    'data': 'Cylinder.stl' #Drill Tip.stl'
+    'data': 'direction drillsleeve.stl'
     'color': [ 0,255,255,0.2 ]
     'vis': true
   'drillsleeve-dir':
-    'marker' : 601
+    'marker' : 4
     'type' : 'line'
     'data' : [134.358, -0.123, 73.332, 250.982, 0.420, 72.709]
-    'color' : [0, 0, 0, 1]
+    'color' : [0, 0, 0, 0]
   'drillsleeve-tip':
-    'marker' : 601
+    'marker' : 4
     'type' : 'point'
-    'data' : [250.982, 0.420, 72.709]
-    'color' : [1.0,1.0,0.0,1.0]
+    'data' : [-146.056, 0.591, 67.520]
+    'color' : [0, 0, 0, 0]
   'drillsleeve-origin':
-    'marker' : 601
+    'marker' : 4
     'type' : 'point'
     'data' : [134.358, -0.123, 73.332]
-    'color' : [1.0,1.0,0.0,0.5]
+    'color' : [0, 0, 0, 0]
 'statistics':
   'distance to entry 2D':
     'type' : 'distance_2d'

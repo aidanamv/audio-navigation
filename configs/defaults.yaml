@@ -1,8 +1,8 @@
 'geometries':
-  'marker' : 600
+  'marker' : 300
   'focus' : false
   'type' : 'mesh'
-  'data' : 'Vertebra L1 (GC 1.5 SD 0.5).stl'
+  'data' : 'IW6/L1 (GC 1.5 SD 0.5).stl'
   'color' : [1, 0, 0, 0.5]
   'trans' : null
   'vis' : true

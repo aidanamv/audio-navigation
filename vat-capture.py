@@ -308,10 +308,9 @@ def update_stats():
 # animation
 def update():
     global tracking_system
-    time_stats.setText(f'time\n{tracking_system.index / config.refresh_timeout:.2f}s')
     # get marker
     curr_markers = tracking_system.get_current_marker_data()
-    #time_stats.setText(f'time\n{curr_markers[0]._timestamp /1000000000:.2f}s')
+   # time_stats.setText(f'time\n{curr_markers[0]._timestamp /1000000000:.2f}s')
 
 
     while len(curr_markers) < 1:
