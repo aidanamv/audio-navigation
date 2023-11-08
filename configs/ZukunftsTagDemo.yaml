@@ -1,0 +1,106 @@
+'L1':
+  'L':
+    'focus' : false
+    'type' : 'mesh'
+    'data' : 'L1.stl'
+  'entry':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [0.,0,0.0,0.0]
+  'mid':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [0,0,0,0,0,0, 150]
+    'color' : [0.,0,0.0,0.0]
+'L2':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'L2.stl'
+  'entry':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [0.,0,0.0,0.0]
+  'mid':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [0,0,0,0,0,0, 150]
+    'color' : [0.,0,0.0,0.0]
+'L3':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'L3.stl'
+  'entry':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [0.,0,0.0,0.0]
+  'mid':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [0,0,0,0,0,0, 150]
+    'color' : [0.,0,0.0,0.0]
+'L4':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'L4.stl'
+  'entry':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [0.,0,0.0,0.0]
+  'mid':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [0,0,0,0,0,0, 150]
+    'color' : [0.,0,0.0,0.0]
+'L5':
+  'L':
+    'focus' : true
+    'type' : 'mesh'
+    'data' : 'L5.stl'
+  'entry':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [0.,0,0.0,0.0]
+  'mid':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,0.5]
+  'screw-tip':
+    'type' : 'point'
+    'data' : [0,0,0]
+    'color' : [1.0,1.0,1.0,.5]
+  'traj':
+    'type' : 'line'
+    'data' : [0,0,0,0,0,0, 150]
+    'color' : [0.,0,0.0,0.0]
+
