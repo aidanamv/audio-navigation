@@ -45,7 +45,7 @@ The program runs on a configuration file. [audio-default.yaml](configs\audio-def
 # Step by Step
 1. Clone the repository
 ```bash
-git clone https://caspa.visualstudio.com/Machine%20Learning/_git/vat-capture
+git clone [https://caspa.visualstudio.com/Machine%20Learning/_git/vat-capture](https://github.com/aidanamv/audio-navigation.git)
 ```
 1. Initialize and activate your favorite python environment (virtualenv: `python -m venv {venv}` or conda)
 2. For live viewing atracsys data: setup atracsys sdk (see document in MS Teams -> ROCS -> atracsys fusiontack 500 -> files -> internal manual -> setup) **AND** add the system variables as in the [documentation](https://pypi.org/project/atracsys/) ATRACSYS_FTK_HOME & ATRACSYS_STK_HOME to something like "documents/.../fusionTrack SDK x64"
