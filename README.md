@@ -3,7 +3,7 @@ A custom application to record multichannel lossless audio and tracking data syn
 
 # VAT CAPTURE
 The application is designed to navigate previously planned pedicle screw drillings using a drill sleeve. The main window constitutes of three separate views of the current vertebra: the posterior view, the axial view and the sagital view.
-![VAT Capture](assets\vat-capture.PNG)
+![VAT Capture](assets/vat-capture.PNG)
 
 ## Configurations
 The program runs on different configuration files. [capture-default.yaml](configs\capture-default.yaml) defines the standard run configurations, such as *time_filter*, *stats_timeout*, *markers*, *geometries* and statistics.
